@@ -1,0 +1,23 @@
+{
+  "records": [
+    {
+      "attributes": {
+        "type": "Species__c",
+        "referenceId": "Species__cRef1"
+      },
+      "Description__c": "Conocida por sus propiedades medicinales y aplicaciones para la piel",
+      "Ideal_Max_Temperature__c": 25,
+      "Ideal_Min_Temperature__c": null,
+      "Image_URL__c": "https://media.istockphoto.com/id/1345935119/es/foto/aloe-o-aloe-vera-hojas-frescas-y-rodajas-sobre-fondo-blanco.jpg?s=612x612&w=0&k=20&c=SKeX1ooqt0MmqRB_bdK80PduxYy-i8iCaDhqHmIRH-w=",
+      "Image__c": "<img src=\"https://media.istockphoto.com/id/1345935119/es/foto/aloe-o-aloe-vera-hojas-frescas-y-rodajas-sobre-fondo-blanco.jpg?s=612x612&amp;w=0&amp;k=20&amp;c=SKeX1ooqt0MmqRB_bdK80PduxYy-i8iCaDhqHmIRH-w=\" alt=\"Aloe Vera\" border=\"0\"/>",
+      "Light_Notes__c": null,
+      "Light__c": null,
+      "Location__c": "Outdoors",
+      "Name": "Aloe Vera",
+      "Pulverization__c": false,
+      "Sowing__c": null,
+      "Temperature_Notes__c": null,
+      "Type__c": "Ornamental"
+    }
+  ]
+}
